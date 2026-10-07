@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #222222;
+    background-color: #eeeeee;
+
+    background-image: url("switch_skin.webp");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 250px;
+}
+
+.header {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: #e60012;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.small-image {
+    width: 300px;
+}
+
+#facts {
+    background-color: #eeeeee;
+    padding: 15px;
+}
